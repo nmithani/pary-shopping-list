@@ -5,3 +5,5 @@ Tonic
 Tequila 
 Gin 
 Frozen Water
+Tea
+Wine

@@ -7,3 +7,6 @@ Gin
 Frozen Water
 Tea
 Wine
+soda
+sweet tea 
+water
